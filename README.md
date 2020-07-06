@@ -1,4 +1,4 @@
-# Music-Duplicate-Finder
+# Music Duplicate Finder
 This is a basic duplicate finder for selections in Apple's Music Program. It is written in Applescript.
 
 It first takes the selection from Music and adds it to a list that the program can parse easier. It runs through that list and if it finds an already used artist, it adds it to the list of duplicates. 
